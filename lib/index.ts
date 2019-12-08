@@ -242,6 +242,3 @@ export function numToZh(num: string | number): string {
   }
   return rel;
 }
-
-
-
