@@ -1,6 +1,6 @@
 {
   "name": "num-to-zh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,17 +16,9 @@
     "postversion": "git push && git push --tags"
   },
   "files": ["dist/**/*"],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/handsomeJs/num-to-zh.git"
-  },
   "keywords": ["TypeScript"],
   "author": "frank",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/handsomeJs/num-to-zh/issues"
-  },
-  "homepage": "https://github.com/handsomeJs/num-to-zh#readme",
   "devDependencies": {
     "prettier": "^1.19.1",
     "tslint": "^5.20.1",
